@@ -1,0 +1,9 @@
+# Ignore compiled files
+*.exe
+*.o
+*.obj
+*.dll
+
+# Ignore IDE/OS metadata
+.vscode/
+.DS_Store
